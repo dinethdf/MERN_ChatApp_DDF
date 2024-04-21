@@ -1,5 +1,7 @@
 # MERN_ChatApp_DDF
 
+### The application is deployed and can be accessed at [https://mern-chatapp-ddf.onrender.com/](https://mern-chatapp-ddf.onrender.com/)
+
 This is a chat application built using the MERN stack (MongoDB, Express.js, React.js, and Node.js).
 
 ## Features
@@ -39,4 +41,6 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
+# This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
+
+https://mern-chatapp-ddf.onrender.com/
