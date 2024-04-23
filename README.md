@@ -2,13 +2,13 @@
 
 ### The application is deployed and can be accessed at [https://mern-chatapp-ddf.onrender.com/](https://mern-chatapp-ddf.onrender.com/)
 
-This is a chat application built using the MERN stack (MongoDB, Express.js, React.js, and Node.js).
+This chat application is built using the MERN stack (MongoDB, Express.js, React.js, and Node.js).
 
 ## Features
 
 - Real-time messaging: Users can send and receive messages in real-time.
 - User authentication: Users can sign up, log in, and log out securely.
-- Chat rooms: Users can join different chat rooms and engage in conversations with other users.
+- Chat rooms: Users can join different chat rooms and converse with other users.
 - Emojis and attachments: Users can express themselves using emojis and share attachments.
 - Notifications: Users receive notifications for new messages and chat room activities.
 
@@ -38,9 +38,5 @@ This is a chat application built using the MERN stack (MongoDB, Express.js, Reac
 ## Contributing
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
-
-## License
-
-# This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
 
 https://mern-chatapp-ddf.onrender.com/
