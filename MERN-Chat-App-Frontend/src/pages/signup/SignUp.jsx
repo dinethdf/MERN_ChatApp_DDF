@@ -24,8 +24,8 @@ const SignUp = () => {
   };
 
   return (
-    <div className="flex flex-col items-center justify-center min-w-96 mx-auto">
-      <div className="w-full p-6 rounded-lg shadow-md bg-gray-400 bg-clip-padding backdrop-filter backdrop-blur-lg bg-opacity-0">
+    <div className="flex flex-col items-center justify-center  lg:min-w-[660px] min-w-96 mx-auto">
+      <div className="md:w-[600px] w-full p-6 rounded-lg shadow-md bg-[#ffffff] bg-clip-padding backdrop-filter backdrop-blur-lg bg-opacity-5">
         <h1 className="text-3xl font-semibold text-center text-gray-300">
           Sign Up <span className="text-blue-500"> ChatApp</span>
         </h1>
@@ -83,7 +83,7 @@ const SignUp = () => {
             <input
               type="password"
               placeholder="Confirm Password"
-              className="w-full input input-bordered h-10"
+              className="w-full input input-bordered h-10 mb-4"
               value={inputs.confirmPassword}
               onChange={(e) =>
                 setInputs({ ...inputs, confirmPassword: e.target.value })
@@ -106,7 +106,7 @@ const SignUp = () => {
 
           <div>
             <button
-              className="btn btn-block btn-sm mt-2 border border-slate-700"
+              className="btn h-10 btn-sm mt-2 mb-1 w-40 text-white bg-[#2563eb] hover:bg-green-400  "
               disabled={loading}
             >
               {loading ? (
